@@ -1,0 +1,6 @@
+[submodule "NewTique_Ecommerce-Backend"]
+	path = NewTique_Ecommerce-Backend
+	url = https://github.com/iamsaroj2058/NewTique_Ecommerce-Backend
+[submodule "NewTique_Ecommerce-Frontend"]
+	path = NewTique_Ecommerce-Frontend
+	url = https://github.com/iamsaroj2058/NewTique_Ecommerce-Frontend
